@@ -9,8 +9,7 @@ title: Protosoniq
 
 ## Demo records
 
-- [https://soundcloud.com/nullsonics/protosoniq-ixion?in=nullsonics/sets/nlls001-take00](https://soundcloud.com/nullsonics/protosoniq-ixion?in=nullsonics/sets/nlls001-take00)
-- https://soundcloud.com/protosoniq/protosoniq-live-snippet-mars
+- See SoundCloud: [https://soundcloud.com/protosoniq](https://soundcloud.com/protosoniq)
 
 ## Contact info
 
