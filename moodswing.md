@@ -10,8 +10,7 @@ title: Moodswing
 
 ## Demo records
 
-- [https://soundcloud.com/nullsonics/fgau-intro](https://soundcloud.com/nullsonics/fgau-intro)
-- [https://www.youtube.com/watch?v=dd4q0WgtlgY](https://www.youtube.com/watch?v=dd4q0WgtlgY)
+- [https://nullsonics.bandcamp.com/track/now-i-am-a-part-of-the-debris](https://nullsonics.bandcamp.com/track/now-i-am-a-part-of-the-debris)
 
 ## Contact info
 
@@ -19,6 +18,8 @@ title: Moodswing
 - soundcloud: [https://soundcloud.com/moodswinged](https://soundcloud.com/moodswinged)
 
 ## Tech. raider
+
+- Стойки для барабанных тарелок журавль/прямые — 2 шт.
 
 - Стол – 1.25 х 0.75
 
