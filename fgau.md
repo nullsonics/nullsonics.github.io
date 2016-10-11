@@ -5,12 +5,14 @@ title: fgau
 
 ## Annotation
 
-fgau – electronic musician and artist with programming background
+fgau – electronic musician and artist with programming background.
 
 fgau – музыкальный проект на гранях пост-индастриала и дарк техно, представит a/v сет – субъективную
 попытку осмысления реальности, где всё по сути представляет из себя колебания. Сложность задачи не
 только в выборе способа постижения сути, но и в том, что это всё нужно уложить во временные и
 пространственные рамки и частотные ограничения 20 - 20000 Гц и 385 – 790 ТГц.
+
+https://soundcloud.com/fgaumusic
 
 ## Demo records
 
@@ -19,11 +21,11 @@ fgau – музыкальный проект на гранях пост-инда
 
 ## Contact info
 
-- email: andrei.shchatko [attt] gmail [dottt] com
+- email: andrei.shchatko [attt] gmail [ddooot] com
 - phone: +79267512799
 - fb artist page: [https://facebook.com/fgaumusic](https://facebook.com/fgaumusic)
 - soundcloud: [https://soundcloud.com/fgaumusic](https://soundcloud.com/fgaumusic)
-- bandcamp: [https://fgau.bandcamp.com/](https://soundcloud.com/fgaumusic)
+- bandcamp: [https://fgau.bandcamp.com/](https://fgau.bandcamp.com/)
 
 ## Tech. raider
 
