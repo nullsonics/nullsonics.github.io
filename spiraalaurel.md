@@ -42,5 +42,5 @@ Spiraal Aurel
 
 <a href="/img/sa/1.jpg" target="_blank"><img src="/img/sa/1.jpg"></a>
 <br/><br/>
-<a href="/img/sa/2.jpg" target="_blank"><img src="/img/vs/2.jpg"></a>
+<a href="/img/sa/2.jpg" target="_blank"><img src="/img/sa/2.jpg"></a>
 
