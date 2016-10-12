@@ -13,7 +13,7 @@ title: Protosoniq
 
 ## Contact info
 
-- email: protosoniq [aatt] gmail [ddoot] com
+- email: protosoniq [a t] gmail [d ot] com
 - fb artist page: [facebook.com/protosoniq](facebook.com/protosoniq)
 - soundcloud: [https://soundcloud.com/protosoniq](https://soundcloud.com/protosoniq)
 - bandcamp: [https://protosoniq.bandcamp.com/](https://protosoniq.bandcamp.com/)

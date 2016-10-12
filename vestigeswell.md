@@ -20,7 +20,7 @@ Vestige Swell — группа электронных музыкантов, ре
 
 ## Contact info
 
-- Email: vestige.swell [att] gmail [dottt] com
+- Email: vestige.swell [a t] gmail [do t] com
 - Fb artist page: [https://facebook.com/vestigeswell](https://facebook.com/vestigeswell)
 - SoundCloud: [https://soundcloud.com/vestige_swell](https://soundcloud.com/vestige_swell)
 - BandCamp: [https://vestigeswell.bandcamp.com/](https://vestigeswell.bandcamp.com/)

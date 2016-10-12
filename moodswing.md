@@ -14,7 +14,7 @@ title: Moodswing
 
 ## Contact info
 
-- email: speedscum [attt] gmail [ddooot] com
+- email: speedscum [a t] gmail [d ot] com
 - soundcloud: [https://soundcloud.com/moodswinged](https://soundcloud.com/moodswinged)
 
 ## Tech. raider
