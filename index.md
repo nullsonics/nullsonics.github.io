@@ -9,4 +9,6 @@ title: null sonics artists
 
 ## [Protosoniq](/protosoniq.html)
 
+## [Spiraal Aurel](/spiraalaurel.html)
+
 ## [Vestige Swell](/vestigeswell.html)
