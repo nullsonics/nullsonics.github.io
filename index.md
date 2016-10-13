@@ -5,7 +5,7 @@ title: null sonics artists
 
 ## [fgau](/fgau.html)
 
-## [Mooswing](/moodswing.html)
+## [Moodswing](/moodswing.html)
 
 ## [Protosoniq](/protosoniq.html)
 
