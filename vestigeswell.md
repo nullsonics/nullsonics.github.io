@@ -25,7 +25,7 @@ Vestige Swell — группа электронных музыкантов, ре
 - SoundCloud: [https://soundcloud.com/vestige_swell](https://soundcloud.com/vestige_swell)
 - BandCamp: [https://vestigeswell.bandcamp.com/](https://vestigeswell.bandcamp.com/)
 
-## Tech. raider
+## Tech. rider
 
 - Гитарный усилитель:
   - Мощность 100 Вт

@@ -21,7 +21,7 @@ fgau — музыкальный проект на гранях пост-инда
 - soundcloud: [https://soundcloud.com/fgaumusic](https://soundcloud.com/fgaumusic)
 - bandcamp: [https://fgau.bandcamp.com/](https://fgau.bandcamp.com/)
 
-## Tech. raider
+## Tech. rider
 
 - В саунд системе должен иметься сабвуфер
 - Для расположения ноутбука, гитары, звуковой карты, контроллеров необходим стол размером 1.25×0.75 м 

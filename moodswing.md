@@ -17,7 +17,7 @@ title: Moodswing
 - email: speedscum [a t] gmail [d ot] com
 - soundcloud: [https://soundcloud.com/moodswinged](https://soundcloud.com/moodswinged)
 
-## Tech. raider
+## Tech. rider
 
 - Стойки для барабанных тарелок журавль/прямые — 2 шт.
 - Стол – 1.25 х 0.75

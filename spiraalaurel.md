@@ -18,7 +18,7 @@ Spiraal Aurel — аудиовизуальный проект, погружаю�
 - soundcloud: [https://soundcloud.com/spiraalaurel](https://soundcloud.com/spiraalaurel)
 - bandcamp: [https://spiraalaurel.bandcamp.com/](https://spiraalaurel.bandcamp.com/)
 
-## Tech. raider
+## Tech. rider
 
 - Требования к звуковой системе мероприятия:
   - Стерео

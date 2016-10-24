@@ -18,7 +18,7 @@ title: Protosoniq
 - soundcloud: [https://soundcloud.com/protosoniq](https://soundcloud.com/protosoniq)
 - bandcamp: [https://protosoniq.bandcamp.com/](https://protosoniq.bandcamp.com/)
 
-## Tech. raider
+## Tech. rider
 
 - FOH - stereo input
 - Front - из расчета 1 киловатт на 100 человек,  мощность сабвуферов пропорциональна общей мощности фронтальной системы 
