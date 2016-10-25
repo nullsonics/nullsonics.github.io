@@ -13,7 +13,7 @@ title: FORGTTN
 
 ## Demo records
 
-- [https://nenrecs.bandcamp.com/album/verges](Verges EP (2016, NEN Records))
+- [Verges EP (2016, NEN Records)](https://nenrecs.bandcamp.com/album/verges)
 
 ## Contact info
 
