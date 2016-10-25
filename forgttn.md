@@ -1,6 +1,6 @@
 ---
 layout: clean
-title: FORGTTN
+title: FORGTTN (NEN Records)
 ---
 
 ## Annotation
