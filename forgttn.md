@@ -25,3 +25,7 @@ title: FORGTTN
 - Микшерный режиссёрский пульт, минимум 6 моно каналов, входа - джеки (6.3) либо
   RCA.
 - 2 монитора на подставке по бокам.
+
+## Images
+
+<a href="/img/forgttn/1.jpg" target="_blank"><img src="/img/forgttn/1.jpg"></a>
