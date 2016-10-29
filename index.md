@@ -19,3 +19,5 @@ special guest
 ## [FORGTTN \[NEN RECORDS\]](/forgttn.html)
 
 ## [morenceli \[Tenebrous Music / Blackwater (UK)\]](/morenceli.html)
+
+## [Redukt \[Kvitnu\]](/redukt.html)
