@@ -11,4 +11,4 @@ title: null sonics artists
 
 ## [Spiraal Aurel](/spiraalaurel.html)
 
-## [Vestige Swell](/vestigeswell.html)
+## [Vestige Swell + Arktk](/vestigeswell-arktk.html)

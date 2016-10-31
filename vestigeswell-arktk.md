@@ -1,17 +1,19 @@
 ---
 layout: clean
-title: Vestige Swell
+title: Vestige Swell + Arktk
+alias: /vestigeswell.html
 ---
 
 ## Annotation
 
-Vestige Swell — discordant electronic music band reflecting on the issues of
-contemporary socio-technological processes by exploring sonic spaces on the edge
-between live music and digital sound.
+Совместный проект AV лайв музыкантов Vestige Swell и медиа художника Arktk Berkut.
 
 Vestige Swell — группа электронных музыкантов, рефлексирующая на темах
 современных социо-технологических процессов, исследуя звуковые пространства на
 пересечении живой музыки и цифрового звука.
+
+Arktk Berkut — motion designer, media artist, Vj из Екатеринбурга, сейчас работает в Москве в студии
+radugadesign.
 
 ## Demo records
 
@@ -20,12 +22,15 @@ Vestige Swell — группа электронных музыкантов, ре
 
 ## Contact info
 
-- Email: vestige.swell [a t] gmail [do t] com
-- Fb artist page: [https://facebook.com/vestigeswell](https://facebook.com/vestigeswell)
-- SoundCloud: [https://soundcloud.com/vestige_swell](https://soundcloud.com/vestige_swell)
-- BandCamp: [https://vestigeswell.bandcamp.com/](https://vestigeswell.bandcamp.com/)
+- Arktk
+  - Behance: [https://www.behance.net/berkut](https://www.behance.net/berkut)
+- Vestige Swell
+  - Email: vestige.swell [a t] gmail [do t] com
+  - Fb artist page: [https://facebook.com/vestigeswell](https://facebook.com/vestigeswell)
+  - SoundCloud: [https://soundcloud.com/vestige_swell](https://soundcloud.com/vestige_swell)
+  - BandCamp: [https://vestigeswell.bandcamp.com/](https://vestigeswell.bandcamp.com/)
 
-## Tech. raider
+## Tech. rider
 
 - Гитарный усилитель:
   - Мощность 100 Вт
