@@ -5,7 +5,7 @@ title: Spiraal Aurel
 
 ## Annotation
 
-Spiraal Aurel
+Spiraal Aurel — аудиовизуальный проект, погружающий на территорию будущего, в тревожную и тягучую технологичную реальность. Размытие границ между личностным и общественным, доведение параноидального настроения времени до предела.
 
 ## Demo records
 
@@ -18,7 +18,7 @@ Spiraal Aurel
 - soundcloud: [https://soundcloud.com/spiraalaurel](https://soundcloud.com/spiraalaurel)
 - bandcamp: [https://spiraalaurel.bandcamp.com/](https://spiraalaurel.bandcamp.com/)
 
-## Tech. raider
+## Tech. rider
 
 - Требования к звуковой системе мероприятия:
   - Стерео

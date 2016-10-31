@@ -1,14 +1,19 @@
 ---
 layout: clean
-title: null sonics artists
+title: null sonics @ rabitsa
 ---
 
-## [fgau](/fgau.html)
+## Residents
 
-## [Mooswing](/moodswing.html)
+### [fgau](/fgau.html)
+### [Moodswing](/moodswing.html)
+### [Protosoniq](/protosoniq.html)
+### [Spiraal Aurel](/spiraalaurel.html)
+### [Vestige Swell + Arktk](/vestigeswell-arktk.html)
+---
 
-## [Protosoniq](/protosoniq.html)
+## Guests
 
-## [Spiraal Aurel](/spiraalaurel.html)
-
-## [Vestige Swell + Arktk](/vestigeswell-arktk.html)
+### [FORGTTN \[NEN RECORDS\]](/forgttn.html)
+### [morenceli \[Tenebrous Music / Blackwater (UK)\]](/morenceli.html)
+### [Redukt \[Kvitnu\]](/redukt.html)

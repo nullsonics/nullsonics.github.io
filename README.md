@@ -1,4 +1,4 @@
-oscii.ru
+nullsonics.github.io
 ========
 
-oscii.ru
+independent dark electronic non-music label based in Moscow, Russia
