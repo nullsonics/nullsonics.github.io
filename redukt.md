@@ -50,3 +50,5 @@ Redukt ( Александр Васильев и Николай Турчинск�
 ## Images
 
 <a href="/img/redukt/1.jpg" target="_blank"><img src="/img/redukt/1.jpg"></a>
+<br/><br/>
+<a href="/img/redukt/2.jpg" target="_blank"><img src="/img/redukt/2.jpg"></a>
