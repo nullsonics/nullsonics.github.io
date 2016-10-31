@@ -5,15 +5,16 @@ title: null sonics @ rabitsa
 
 ## Residents
 
-### [fgau](/fgau.html)
-### [Moodswing](/moodswing.html)
-### [Protosoniq](/protosoniq.html)
-### [Spiraal Aurel](/spiraalaurel.html)
-### [Vestige Swell + Arktk](/vestigeswell-arktk.html)
----
+[fgau](/fgau.html)<br/>
+[Moodswing](/moodswing.html)<br/>
+[Protosoniq](/protosoniq.html)<br/>
+[Spiraal Aurel](/spiraalaurel.html)<br/>
+[Vestige Swell + Arktk](/vestigeswell-arktk.html)<br/>
+
+--- 
 
 ## Guests
 
-### [FORGTTN \[NEN RECORDS\]](/forgttn.html)
-### [morenceli \[Tenebrous Music / Blackwater (UK)\]](/morenceli.html)
-### [Redukt \[Kvitnu\]](/redukt.html)
+[FORGTTN](/forgttn.html) \[NEN RECORDS\]<br/>
+[morenceli](/morenceli.html) \[Tenebrous Music / Blackwater (UK)\]<br/>
+[Redukt](/redukt.html) \[Kvitnu\]<br/>
