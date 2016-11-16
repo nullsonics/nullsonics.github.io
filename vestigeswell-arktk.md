@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: base
 title: Vestige Swell + Arktk
 alias: /vestigeswell.html
 ---

@@ -1,0 +1,4 @@
+<h2>Events</h2>
+{% for e in site.data.cms.events %}
+    <p>[{{ e.date }}] <a href="{{ e.link }}">{{ e.title }}</a><br>{{ e.venue }}</p>
+{% endfor %}    

@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: base
 title: FORGTTN (NEN Records)
 ---
 

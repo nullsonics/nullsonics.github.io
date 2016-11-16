@@ -1,0 +1,8 @@
+<h2 class="text-center">Residents</h2>
+{% for r in site.data.cms.residents %}
+	{% if r.link %}
+    	<p><a href="{{ r.link }}" target="_blank">{{ r.title }}</a></p>
+	{% else %}
+    	<p>{{ r.title }}</p>
+	{% endif %}
+{% endfor %}

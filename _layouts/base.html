@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+    <title>null sonics</title>
+    <meta name="description" content="null sonics &nbsp industrial dark non-music label">
+    <meta name="author" content="SitePoint">
+    <link rel="stylesheet" href="http://yui.yahooapis.com/combo?pure/0.6.0/base-min.css&pure/0.6.0/grids-responsive-min.css&pure/0.6.0/forms-min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+    <style type="text/css">
+        .pure-u-md-2-5 { width: 39% }
+        body {
+            font: 12px arial, sans-serif;
+            color: #ddd;
+            background-color: #151515
+        }
+        a { color: #eee }
+        a:visited { color: #eee }
+        a:hover { color: white }
+
+        @media screen and (min-width: 48em) {
+            #container { width: 40%; margin: 0 auto }
+        }
+        @media screen and (max-width: 48em) {
+            #container { padding: 0 10em; }
+        }
+        #container > header { text-align: center; border-bottom: 1px solid white; padding-bottom: 1em }
+        #container > header h1 { margin-bottom: 0 }
+        #container > header h3 { margin-top: 0; margin-bottom: 0.5em; }
+        #container > header span a { margin-right: 1em }
+        #container > header span a:last-child { margin-right: 0 }
+        #container > footer { text-align: center; border-top: 1px solid white; padding-top: 0.5em } }
+    </style>
+</head>
+
+<div id="container">
+    <header>
+        {% if page.title %}
+            <h1>{{ page.title }}</h1>
+        {% else %}
+            {% include header.html %}
+        {% endif %}
+    </header>
+
+    <section id="content" class="pure-g">
+        {{ content}}
+    </section>
+    <footer>
+        <small>2015–2016 &copy; null sonics. all rights reserved</small>
+    </footer>
+</div>
+<body>
+</body>
+</html>

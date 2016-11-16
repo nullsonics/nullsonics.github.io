@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: base
 title: Spiraal Aurel
 ---
 

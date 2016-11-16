@@ -1,0 +1,4 @@
+<h2 class="text-center">Releases</h2>
+{% for r in site.data.cms.releases %}
+    <p><a href="{{ r.link }}">{{ r.title }}</a></p>
+{% endfor %}
