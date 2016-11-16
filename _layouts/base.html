@@ -14,25 +14,27 @@
         .pure-u-md-2-5 { width: 39% }
         body {
             font: 12px arial, sans-serif;
-            color: #ddd;
-            background-color: #151515
+            color: black;
+            background-color: white;
         }
-        a { color: #eee }
-        a:visited { color: #eee }
-        a:hover { color: white }
+        a { color: black }
+        a:visited { color: black }
+        a:hover { color: #333 }
 
         @media screen and (min-width: 48em) {
-            #container { width: 40%; margin: 0 auto }
+            #container { width: 40%; margin: 0 auto !important }
         }
-        @media screen and (max-width: 48em) {
-            #container { padding: 0 10em; }
+        @media screen and (max-width: 47.999em) {
+            #container { width: 60%; padding: 0 1em 0 20%; }
+            #container > header { text-align: left }
         }
-        #container > header { text-align: center; border-bottom: 1px solid white; padding-bottom: 1em }
+
+        #container > header { text-align: center; padding-bottom: 1em }
         #container > header h1 { margin-bottom: 0 }
         #container > header h3 { margin-top: 0; margin-bottom: 0.5em; }
         #container > header span a { margin-right: 1em }
         #container > header span a:last-child { margin-right: 0 }
-        #container > footer { text-align: center; border-top: 1px solid white; padding-top: 0.5em } }
+        #container > footer { text-align: center; padding-top: 0.5em } }
     </style>
 </head>
 
