@@ -3,13 +3,15 @@ about: |
   amorphous and fractured, violent and droning, furious and contemplative. All dark, all good. So
   pick your poison.
 
-socials:
+contacts:
   - title: bandcamp
     link: https://nullsonics.bandcamp.com/
   - title: soundcloud
     link: https://soundcloud.com/nullsonics
   - title: facebook
     link: https://facebook.com/nullsonics
+  - title: nullsonics@gmail.com
+    link: mailto:nullsonics@gmail.com
 
 releases:
   - title: '[nlls001] va - take00'
@@ -19,23 +21,29 @@ releases:
     link: https://nullsonics.bandcamp.com/album/nssp001-sample-pack-nullpack00
     date: 20/06/2016
 
-residents:
+artists:
   - title: fgau
     link: https://soundcloud.com/fgaumusic
   - title: Moodswing
-    link: "https://nullsonics.bandcamp.com/track/now-i-am-a-part-of-the-debris"
+    link: https://nullsonics.bandcamp.com/track/now-i-am-a-part-of-the-debris
   - title: Protosoniq
     link: https://soundcloud.com/protosoniq
   - title: Spiraal Aurel
     link: https://soundcloud.com/spiraalaurel
   - title: Vestige Swell
     link: https://soundcloud.com/vestige_swell
+  - title: Morenceli [Blackwater]
+    link: https://soundcloud.com/morenceli
+  - title: Rasev
+    link: https://soundcloud.com/rasev
+
 
 events:
-  # - title: null sonics showcase
+  # - title: null sonics showcase @ Mediaspank
     # link: 
     # date: 24/12/2016
-    # venue:  Mediaspank, St. Peterburg, Russia
+    # venue: St. Peterburg, Russia
+    # forthcoming: true
   - title: null sonics showcase @ 11:11
     link: https://www.facebook.com/events/1639611436331879/
     date: 11/11/2016
