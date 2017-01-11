@@ -12,10 +12,10 @@ QuartaRiata в Петергофе 28-го января 2017 года. Излож
 
 ## Контакты лейбла
 
-[nullsonics.com](nullsonics.com)<br>
-[0@nullsonics.com](0@nullsonics.com)<br>
-[facebook.com/nullsonics](facebook.com/nullsonics)<br>
-[vk.com/nullsonics](vk.com/nullsonics)<br>
+[nullsonics.com](http://nullsonics.com)<br>
+0@nullsonics.com<br>
+[facebook.com/nullsonics](https://facebook.com/nullsonics)<br>
+[vk.com/nullsonics](https://vk.com/nullsonics)<br>
 
 ## Содержание мероприятия
 
@@ -25,7 +25,7 @@ QuartaRiata в Петергофе 28-го января 2017 года. Излож
 будет проектор, то названия треков выводятся на экран. Список композиций компиляции «take01»:
 
 - moodswing & protosoniq - erebus
-- fgau & morencelli - forest
+- fgau & morenceli - forest
 - virulent green - the fallout radio
 - spiraal aurel & vestige swell - rusted
 - dno mora - track0
