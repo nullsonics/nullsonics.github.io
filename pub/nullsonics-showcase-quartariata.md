@@ -25,7 +25,7 @@ QuartaRiata в Петергофе 28-го января 2017 года. Излож
 будет проектор, то названия треков выводятся на экран. Список композиций компиляции «take01»:
 
 - moodswing & protosoniq - erebus
-- fgau+morenceli - hppd
+- fgau+morenceli - forest
 - virulent green - the fallout radio
 - spiraal aurel & vestige swell - rusted
 - dno mora - track0
