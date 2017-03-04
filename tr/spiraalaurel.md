@@ -9,7 +9,7 @@ Spiraal Aurel — аудиовизуальный проект, погружаю�
 
 ## Demo records
 
-- [https://soundcloud.com/spiraalaurel/spiraal-aurel-and-virulent-green-rusted-ii](https://soundcloud.com/spiraalaurel/spiraal-aurel-and-virulent-green-rusted-ii)
+- [https://nullsonics.bandcamp.com/track/spiraal-aurel-vestige-swell-rusted](https://nullsonics.bandcamp.com/track/spiraal-aurel-vestige-swell-rusted)
 - [https://nullsonics.bandcamp.com/track/if-this-power-might](https://nullsonics.bandcamp.com/track/if-this-power-might)
 
 ## Contact info
