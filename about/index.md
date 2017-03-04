@@ -1,6 +1,6 @@
 ---
 layout: base
-title: null sonics press kit
+title: about null sonics
 ---
 
 ## Кто мы
