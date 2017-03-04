@@ -17,6 +17,9 @@ contacts:
     link: mailto:0@nullsonics.com
 
 releases:
+  - title: '[nlls002] va - take01'
+    link: https://nullsonics.bandcamp.com/album/nlls002-va-take01
+    date: 03/03/2017
   - title: '[nlls001] va - take00'
     link: https://nullsonics.bandcamp.com/album/nlls001-va-take00
     date: 20/06/2016
@@ -35,20 +38,27 @@ artists:
     link: https://soundcloud.com/spiraalaurel
   - title: vestige swell
     link: https://soundcloud.com/vestige_swell
+  - title: virulent green
+    link: http://nullsonics.com/vg
   - title: morenceli
     link: https://soundcloud.com/morenceli
   - title: rasev
     link: https://soundcloud.com/rasev
+  - title: dno mora
+    link: https://soundcloud.com/dnomora
   - title: tasha abramova
     link: https://soundcloud.com/tashaabramova
-
+  - title: vladislav nogin
+    link: https://soundcloud.com/vladislav-nogin/
+  - title: andrey svibovitch
+    link: https://soundcloud.com/svibovitch
 
 events:
-  # - title: null sonics showcase @ Mediaspank
-    # link: 
-    # date: 24/12/2016
-    # venue: St. Peterburg, Russia
-    # forthcoming: true
+  - title: null sonics showcase @ quartariata
+    link: https://www.facebook.com/events/182476225579223/
+    date: 11/03/2017
+    venue: petergof, russia
+    forthcoming: true
   - title: null sonics showcase @ 11:11
     link: https://www.facebook.com/events/1639611436331879/
     date: 11/11/2016
