@@ -43,6 +43,7 @@ i.m.m.u.r.e. прошелся по канве illbient со множеством
 ## Demo records
 
 - [https://nullsonics.bandcamp.com/track/spiraal-aurel-vestige-swell-rusted](https://nullsonics.bandcamp.com/track/spiraal-aurel-vestige-swell-rusted)
+- [https://soundcloud.com/spiraalaurel/retouch](https://soundcloud.com/spiraalaurel/retouch)
 - [https://nullsonics.bandcamp.com/track/if-this-power-might](https://nullsonics.bandcamp.com/track/if-this-power-might)
 
 ## Contact info
@@ -75,5 +76,6 @@ i.m.m.u.r.e. прошелся по канве illbient со множеством
 
 <a href="/img/sa/1.jpg" target="_blank"><img src="/img/sa/1.jpg"></a>
 <br/><br/>
+<a href="/img/sa/3.jpg" target="_blank"><img src="/img/sa/3.jpg"></a>
 <a href="/img/sa/2.png" target="_blank"><img src="/img/sa/2.png"></a>
 
