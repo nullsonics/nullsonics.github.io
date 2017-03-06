@@ -41,8 +41,7 @@ fgau — музыкальный проект на гранях пост-инда
 
 ## Images
 
-<a href="/img/sa/1.jpg" target="_blank"><img src="/img/sa/1.jpg"></a>
+<a href="/img/fgau/1.jpg" target="_blank"><img src="/img/fgau/1.jpg"></a>
 <br/><br/>
-<a href="/img/sa/3.jpg" target="_blank"><img src="/img/sa/3.jpg"></a>
-<a href="/img/sa/2.png" target="_blank"><img src="/img/sa/2.png"></a>
+<a href="/img/fgau/2.jpg" target="_blank"><img src="/img/fgau/2.jpg"></a>
 
