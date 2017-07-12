@@ -60,6 +60,11 @@ events:
     date: 15/07/2017
     venue: st. petersburg
     forthcoming: true
+  - title: archstoyanie (vestige swell)
+    link: http://arch.stoyanie.ru/events.php?alias=009
+    date: 21/07/2017
+    venue: nikola-lenivets
+    forthcoming: true
   - title: rolling w/ my favorite robot
     link: https://www.facebook.com/events/240661096341442/
     date: 24/03/2017
