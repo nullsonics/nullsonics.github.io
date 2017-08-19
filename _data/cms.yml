@@ -53,18 +53,22 @@ artists:
     link: https://soundcloud.com/vladislav-nogin/
   - title: andrey svibovitch
     link: https://soundcloud.com/svibovitch
+  - title: paragon
+    link: https://soundcloud.com/paragon11111
+  - title: swarm intelligence
+    link: https://soundcloud.com/swarmintelligence
 
 events:
   - title: gamma festival (protosoniq @ delta stage)
     link: http://www.gammafestival.ru/
     date: 15/07/2017
     venue: st. petersburg
-    forthcoming: true
+    forthcoming: false
   - title: archstoyanie (vestige swell)
     link: http://arch.stoyanie.ru/events.php?alias=009
     date: 21/07/2017
     venue: nikola-lenivets
-    forthcoming: true
+    forthcoming: false
   - title: rolling w/ my favorite robot
     link: https://www.facebook.com/events/240661096341442/
     date: 24/03/2017
