@@ -37,22 +37,23 @@ i.m.m.u.r.e. прошелся по канве illbient со множеством
 В настоящий момент Алексей ведет работу над полноформатным альбомом Fadra и
 сплит-релизом с проектом Vestige Swell.
 
-## Online materials
-
-- [Статья на Far from Moscow](http://www.farfrommoscow.com/articles/spiraal-aurel-sunbells-fenimore-and-alexei-borisov-with-colleagues.html)
-- [Видео выступления на шоукейсе лейбла в Рабице](https://www.instagram.com/p/BMyeyAbh6CG/)
-
-## Demo records
-
-- [https://nullsonics.bandcamp.com/track/spiraal-aurel-vestige-swell-rusted](https://nullsonics.bandcamp.com/track/spiraal-aurel-vestige-swell-rusted)
-- [https://soundcloud.com/spiraalaurel/retouch](https://soundcloud.com/spiraalaurel/retouch)
-- [https://nullsonics.bandcamp.com/track/if-this-power-might](https://nullsonics.bandcamp.com/track/if-this-power-might)
-
 ## Contact info
 
 - email: spiraalaurel [a t] gmail [d ot] com
 - soundcloud: [https://soundcloud.com/spiraalaurel](https://soundcloud.com/spiraalaurel)
 - bandcamp: [https://spiraalaurel.bandcamp.com/](https://spiraalaurel.bandcamp.com/)
+
+## Online materials
+
+- [Статья на Far from Moscow](http://www.farfrommoscow.com/articles/spiraal-aurel-sunbells-fenimore-and-alexei-borisov-with-colleagues.html)
+
+## Music
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/354552815%3Fsecret_token%3Ds-blGgV&amp;color=%23747474&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+## Fadra live excerpt
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9afuEVLxDoY" frameborder="0" allowfullscreen></iframe>
 
 ## Tech. rider
 
