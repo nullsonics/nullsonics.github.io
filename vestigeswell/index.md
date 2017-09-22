@@ -42,11 +42,18 @@ sonics» и «Vykhod Sily».
 Arktk Berkut — motion designer, media artist, Vj из Екатеринбурга, сейчас
 работает в Москве в студии radugadesign.
 
-## Demo records
+## Contact info
+
+- email: vestige.swell [a t] gmail [do t] com
+- fb artist page: [https://facebook.com/vestigeswell](https://facebook.com/vestigeswell)
+- soundsloud: [https://soundcloud.com/vestige_swell](https://soundcloud.com/vestige_swell)
+- bandcamp: [https://vestigeswell.bandcamp.com/](https://vestigeswell.bandcamp.com/)
+
+## Music
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/354554512%3Fsecret_token%3Ds-i8lDd&amp;color=%23747474&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 - [Live @ nullification 2](https://soundcloud.com/vestige_swell/live-nullification-ii)
-- [Vestige Swell - Saccades (Part I)](https://nullsonics.bandcamp.com/track/vestige-swell-saccades-part-i)
-- [Vestige Swell - Pareidolia](https://soundcloud.com/nullsonics/vestige-swell-pareidolia)
 
 ## Media
 
@@ -60,11 +67,36 @@ Arktk Berkut — motion designer, media artist, Vj из Екатеринбург
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/Ebl5_gvKvxc?list=UUG4Fh9IWleqnNHTYHdi77nA" frameborder="0" allowfullscreen></iframe>
 
-## Contact info
+## Tech. rider
 
-- Email: vestige.swell [a t] gmail [do t] com
-- Fb artist page: [https://facebook.com/vestigeswell](https://facebook.com/vestigeswell)
-- SoundCloud: [https://soundcloud.com/vestige_swell](https://soundcloud.com/vestige_swell)
-- BandCamp: [https://vestigeswell.bandcamp.com/](https://vestigeswell.bandcamp.com/)
-
-
+- Гитарный усилитель:
+  - Мощность 100 Вт
+  - Варианты моделей: Sovtek MIG 100, Marshall JCM 800/900, Orange Rockverb 100,
+    Hiwatt Custom 100, Rivera Knucklehead ll, Soldano SLO 100
+- Гитарный кабинет
+  - Мощность 100 Вт
+  - 4 динамика по 12'
+  - Динамики Celestion Vintage 30
+  - Варианты кабинетов: Orange 412, Marshall 1960B
+- Для небольшого помещения подойдут комбики:
+    - Peavey Classic 30
+    - Marshall JVM
+- Требования к звуковой системе мероприятия:
+  - Стерео
+  - Сабвуфер
+  - Две мониторных колонки
+- Пространство на сцене
+  - Стол размером не менее 1.25×0.75 м
+  - Гитарный кабинет должен стоять по правую сторону и чуть позади стола
+- Коммутация
+  - Jack–Jack 6.3, моно, 5 м. — 2 шт.
+  - Jack-Jack 3.5, экранированный стерео, 1.5 м. — 1 шт.
+  - Подключение к аудио-системе мероприятия с помощью двух балансных Jack 6.3
+- Компьютер для видео (минимум):
+  - Windows 7+
+  - CPU: Intel i5, 2 core, 2500 Hz
+  - NVidia GTX 850 2GB
+  - Поддержка FullHD
+  - Изображение не должно быть растянуто на проекторе
+  - Звуковая карта со stereo Jack 3.5 входом
+  - Возможность подключиться к нему по Wi-Fi
