@@ -25,7 +25,6 @@ fgau — музыкальный проект на гранях пост-инда
 ## Contact info
 
 - email: andrei.shchatko [a t] gmail [do t] com
-- phone: +79267512799
 - fb artist page: [https://facebook.com/fgaumusic](https://facebook.com/fgaumusic)
 - soundcloud: [https://soundcloud.com/fgaumusic](https://soundcloud.com/fgaumusic)
 - bandcamp: [https://fgau.bandcamp.com/](https://fgau.bandcamp.com/)
